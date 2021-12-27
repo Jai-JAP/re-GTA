@@ -1,11 +1,11 @@
-<img src="https://github.com/GTAmodding/re3/blob/miami/res/images/logo_1024.png?raw=true" alt="reVC logo" width="200">
+<img src="https://github.com/Jai-JAP/re-GTA/blob/reVC/res/images/logo_1024.png?raw=true" alt="reVC logo" width="200">
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FGTAmodding%2Fre3%2Fbadge%3Fref%3Dmiami&style=flat)](https://actions-badge.atrox.dev/GTAmodding/re3/goto?ref=miami)
 <a href="https://discord.gg/RFNbjsUMGg"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
 
 ## Intro
 
-In this repository you'll find the fully reversed source code for GTA III ([master](https://github.com/GTAmodding/re3/tree/master/) branch) and GTA VC ([miami](https://github.com/GTAmodding/re3/tree/miami/) branch).
+In this repository you'll find the fully reversed source code for GTA III ([re3](https://github.com/Jai-JAP/re-GTA/tree/re3) branch) and GTA VC ([reVC](https://github.com/Jai-JAP/re-GTA/tree/reVC) branch).
 
 It has been tested and works on Windows, Linux, MacOS and FreeBSD, on x86, amd64, arm and arm64.\
 Rendering is handled either by original RenderWare (D3D8)
