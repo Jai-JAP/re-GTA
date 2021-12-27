@@ -5,7 +5,7 @@
 
 ## Intro
 
-In this repository you'll find the fully reversed source code for GTA III ([master](https://github.com/GTAmodding/re3/tree/master/) branch) and GTA VC ([miami](https://github.com/GTAmodding/re3/tree/miami/) branch).
+In this repository you'll find the fully reversed source code for GTA III ([re3](https://github.com/Jai-JAP/re-GTA/tree/re3) branch) and GTA VC ([reVC](https://github.com/Jai-JAP/re-GTA/tree/reVC) branch).
 
 It has been tested and works on Windows, Linux, MacOS and FreeBSD, on x86, amd64, arm and arm64.\
 Rendering is handled either by original RenderWare (D3D8)
